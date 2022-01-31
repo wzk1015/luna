@@ -1,6 +1,6 @@
 # Luna: simple version control system
 
-wzk's little project for entertainment, don't take it serious~
+wzk's little project for entertainment, don't take it seriously~
 
 
 
